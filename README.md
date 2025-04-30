@@ -19,6 +19,11 @@ Dit script voegt AdminID via een Discord Bot token
    ``` ensure adminID ```
 
    ``` Discord rollen moeten op hoog naar laag ingesteld worden in de config.lua```
+## Command
+   ``` /adminID ```
+
+   ``` /checkroles ```
+
 ----------------------------------------------------------------------------------------------------
 # 🚨 adminID Script - QBCore/ESX/standalone 
 
@@ -41,3 +46,8 @@ This script adds AdminID via a Discord Bot token
     ```ensure adminID ```
 
     ```Discord roles should be set from high to low in the config.lua ```
+
+   ## Command
+   ``` /adminID ```
+
+   ``` /checkroles ```
