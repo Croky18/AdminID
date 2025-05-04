@@ -1,4 +1,4 @@
-# 🚨 adminID Script - QBCore/ESX/standalone 
+# 🚨 adminID Script - QBCore/ESX/STANDALONE
 
 Dit script voegt AdminID via een Discord Bot token
 
